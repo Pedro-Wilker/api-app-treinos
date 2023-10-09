@@ -1,0 +1,1203 @@
+[
+    {
+      "id": 1,
+      "tipo": "ABC",
+      "categoria": "Peito",
+      "exercicio": "Supino Reto"
+    },
+    {
+      "id": 2,
+      "tipo": "ABC",
+      "categoria": "Peito",
+      "exercicio": "Supino Inclinado"
+    },
+    {
+      "id": 3,
+      "tipo": "ABC",
+      "categoria": "Perna",
+      "exercicio": "Agachamento"
+    },
+    {
+      "id": 4,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Barra Fixa"
+    },
+    {
+      "id": 5,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Remada Curvada"
+    },
+    {
+      "id": 6,
+      "tipo": "AB",
+      "categoria": "Panturrilha",
+      "exercicio": "Elevação de Panturrilha em Pé"
+    },
+    {
+      "id": 7,
+      "tipo": "AB",
+      "categoria": "Panturrilha",
+      "exercicio": "Elevação de Panturrilha Sentado"
+    },
+    {
+      "id": 8,
+      "tipo": "AB",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento com Barra"
+    },
+    {
+      "id": 9,
+      "tipo": "AB",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Lateral"
+    },
+    {
+      "id": 10,
+      "tipo": "ABCDE",
+      "categoria": "Perna",
+      "exercicio": "Leg Press"
+    },
+    {
+      "id": 11,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Fly Peitoral"
+    },
+    {
+      "id": 12,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Pull-up"
+    },
+    {
+      "id": 13,
+      "tipo": "ABC",
+      "categoria": "Perna",
+      "exercicio": "Avanço"
+    },
+    {
+      "id": 14,
+      "tipo": "ABC",
+      "categoria": "Perna",
+      "exercicio": "Cadeira Extensora"
+    },
+    {
+      "id": 15,
+      "tipo": "ABCD",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada Alta"
+    },
+    {
+      "id": 16,
+      "tipo": "ABCD",
+      "categoria": "Dorsal",
+      "exercicio": "Remada Cavalinho"
+    },
+    {
+      "id": 17,
+      "tipo": "ABCDE",
+      "categoria": "Panturrilha",
+      "exercicio": "Elevação de Panturrilha em Máquina"
+    },
+    {
+      "id": 18,
+      "tipo": "ABCDE",
+      "categoria": "Panturrilha",
+      "exercicio": "Gêmeos Sentado"
+    },
+    {
+      "id": 19,
+      "tipo": "AB",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento com Halteres"
+    },
+    {
+      "id": 20,
+      "tipo": "AB",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Frontal"
+    },
+    {
+      "id": 21,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Supino Declinado"
+    },
+    {
+      "id": 22,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Crucifixo"
+    },
+    {
+      "id": 23,
+      "tipo": "ABCDE",
+      "categoria": "Perna",
+      "exercicio": "Máquina Extensora"
+    },
+    {
+      "id": 24,
+      "tipo": "ABCDE",
+      "categoria": "Perna",
+      "exercicio": "Stiff"
+    },
+    {
+      "id": 25,
+      "tipo": "ABCD",
+      "categoria": "Braços",
+      "exercicio": "Rosca Direta"
+    },
+    {
+      "id": 26,
+      "tipo": "ABCD",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Pulldown"
+    },
+    {
+      "id": 27,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Encolhimento de Ombros"
+    },
+    {
+      "id": 28,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento Militar"
+    },
+    {
+      "id": 29,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Pulldown Frontal"
+    },
+    {
+      "id": 30,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada Supinada"
+    },
+    {
+      "id": 31,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Corrida)"
+    },
+    {
+      "id": 32,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Bicicleta Ergométrica)"
+    },
+    {
+      "id": 33,
+      "tipo": "ABC",
+      "categoria": "Costas",
+      "exercicio": "Hiperextensões Lombar"
+    },
+    {
+      "id": 34,
+      "tipo": "ABC",
+      "categoria": "Costas",
+      "exercicio": "Pulldown com Barra Reta"
+    },
+    {
+      "id": 35,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Curl com Barra EZ"
+    },
+    {
+      "id": 36,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Francês"
+    },
+    {
+      "id": 37,
+      "tipo": "AB",
+      "categoria": "Abdômen",
+      "exercicio": "Prancha"
+    },
+    {
+      "id": 38,
+      "tipo": "AB",
+      "categoria": "Abdômen",
+      "exercicio": "Crunch"
+    },
+    {
+      "id": 39,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Passada"
+    },
+    {
+      "id": 40,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Máquina Leg Curl"
+    },
+    {
+      "id": 41,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Máquina Leg Extension"
+    },
+    {
+      "id": 42,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Afundo"
+    },
+    {
+      "id": 43,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Supino com Halteres"
+    },
+    {
+      "id": 44,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Pull-over"
+    },
+    {
+      "id": 45,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Elíptico)"
+    },
+    {
+      "id": 46,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada na Máquina"
+    },
+    {
+      "id": 47,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Pull-down com Corda"
+    },
+    {
+      "id": 48,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Curl Concentrado"
+    },
+    {
+      "id": 49,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Coice"
+    },
+    {
+      "id": 50,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Lateral com Halteres"
+    },
+    {
+      "id": 51,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Frontal com Halteres"
+    },
+    {
+      "id": 52,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Encolhimento de Ombros com Halteres"
+    },
+    {
+      "id": 53,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Esteira)"
+    },
+    {
+      "id": 54,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Leg Press 45°"
+    },
+    {
+      "id": 55,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Máquina Abdominal"
+    },
+    {
+      "id": 56,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Saltos)"
+    },
+    {
+      "id": 57,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões (Push-ups)"
+    },
+    {
+      "id": 58,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Máquina Peitoral"
+    },
+    {
+      "id": 59,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Escada StairMaster)"
+    },
+    {
+      "id": 60,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Pular Corda)"
+    },
+    {
+      "id": 61,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Remada T"
+    },
+    {
+      "id": 62,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca Inversa"
+    },
+    {
+      "id": 63,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Pulley"
+    },
+    {
+      "id": 64,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento com Máquina"
+    },
+    {
+      "id": 65,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Frontal com Corda"
+    },
+    {
+      "id": 66,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Encolhimento de Ombros com Corda"
+    },
+    {
+      "id": 67,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Bicicleta Estacionária)"
+    },
+    {
+      "id": 68,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Corrida na Esteira)"
+    },
+    {
+      "id": 69,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Escada Rolante)"
+    },
+    {
+      "id": 70,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Elíptico)"
+    },
+    {
+      "id": 71,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Aberturas com Halteres"
+    },
+    {
+      "id": 72,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões com Pés Elevados"
+    },
+    {
+      "id": 73,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Máquina de Escalada)"
+    },
+    {
+      "id": 74,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Prensa 45°"
+    },
+    {
+      "id": 75,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Afundo com Barra"
+    },
+    {
+      "id": 76,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Natação)"
+    },
+    {
+      "id": 77,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Pull-down no Cross Over"
+    },
+    {
+      "id": 78,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca Scott"
+    },
+    {
+      "id": 79,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Testa"
+    },
+    {
+      "id": 80,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento Militar com Barra"
+    },
+    {
+      "id": 81,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento Militar com Halteres"
+    },
+    {
+      "id": 82,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Lateral Invertida"
+    },
+    {
+      "id": 83,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Remo)"
+    },
+    {
+      "id": 84,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Máquina Hack Squat"
+    },
+    {
+      "id": 85,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Sprint)"
+    },
+    {
+      "id": 86,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Mergulhos"
+    },
+    {
+      "id": 87,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões com Bola Suíça"
+    },
+    {
+      "id": 88,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Agachamento com Salto"
+    },
+    {
+      "id": 89,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Máquina de Flexão de Pernas"
+    },
+    {
+      "id": 90,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Caminhada Rápida)"
+    },
+    {
+      "id": 91,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada na Máquina Cross Over"
+    },
+    {
+      "id": 92,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Curl Alternado com Halteres"
+    },
+    {
+      "id": 93,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Coice com Halteres"
+    },
+    {
+      "id": 94,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento Arnold Press"
+    },
+    {
+      "id": 95,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Lateral com Máquina"
+    },
+    {
+      "id": 96,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento Smith Machine"
+    },
+    {
+      "id": 97,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Patinete)"
+    },
+    {
+      "id": 98,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Máquina de Escalada Vertical)"
+    },
+    {
+      "id": 99,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Agachamento Bulgário"
+    },
+    {
+      "id": 100,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Ciclismo)"
+    },
+    {
+      "id": 101,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões Declinadas"
+    },
+    {
+      "id": 102,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Supino com Pegada Fechada"
+    },
+    {
+      "id": 103,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada no Cross Over com Barra V"
+    },
+    {
+      "id": 104,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Pull-down com Triângulo"
+    },
+    {
+      "id": 105,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca Martelo"
+    },
+    {
+      "id": 106,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Pulldown com Corda"
+    },
+    {
+      "id": 107,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento com Barra na Frente"
+    },
+    {
+      "id": 108,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Frontal com Barra"
+    },
+    {
+      "id": 109,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Encolhimento de Ombros na Máquina"
+    },
+    {
+      "id": 110,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Máquina de Remo)"
+    },
+    {
+      "id": 111,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Caminhada com Saco de Pancadas)"
+    },
+    {
+      "id": 112,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Agachamento com Barra Alta"
+    },
+    {
+      "id": 113,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Natação com Palmas)"
+    },
+    {
+      "id": 114,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Mergulhos nas Barras Paralelas"
+    },
+    {
+      "id": 115,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões com Rotação"
+    },
+    {
+      "id": 116,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Afundo com Halteres"
+    },
+    {
+      "id": 117,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Máquina de Adutores"
+    },
+    {
+      "id": 118,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Bicicleta BMX)"
+    },
+    {
+      "id": 119,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada Alta com Pegada Larga"
+    },
+    {
+      "id": 120,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca 21"
+    },
+    {
+      "id": 121,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps na Polia Alta"
+    },
+    {
+      "id": 122,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Frontal com Corda"
+    },
+    {
+      "id": 123,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Lateral com Corda"
+    },
+    {
+      "id": 124,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Patinete Elétrico)"
+    },
+    {
+      "id": 125,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Leg Press Horizontal"
+    },
+    {
+      "id": 126,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Step)"
+    },
+    {
+      "id": 127,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Agachamento Búlgaro com Halteres"
+    },
+    {
+      "id": 128,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões Diamante"
+    },
+    {
+      "id": 129,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões com Halteres"
+    },
+    {
+      "id": 130,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Caminhada com Kettlebell)"
+    },
+    {
+      "id": 131,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Passada com Halteres"
+    },
+    {
+      "id": 132,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Máquina de Remo com Cabo)"
+    },
+    {
+      "id": 133,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada na Máquina com Triângulo"
+    },
+    {
+      "id": 134,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca 21 Invertida"
+    },
+    {
+      "id": 135,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Testa com Barra"
+    },
+    {
+      "id": 136,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Frontal com Halteres Inclinado"
+    },
+    {
+      "id": 137,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Encolhimento de Ombros com Halteres Inclinado"
+    },
+    {
+      "id": 138,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Caminhada Lateral)"
+    },
+    {
+      "id": 139,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Pistol Squat"
+    },
+    {
+      "id": 140,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Subida de Escadas)"
+    },
+    {
+      "id": 141,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões de Punhos"
+    },
+    {
+      "id": 142,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Supino com Pegada Larga"
+    },
+    {
+      "id": 143,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Caminhada com Mochila)"
+    },
+    {
+      "id": 144,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Leg Press Horizontal com Uma Perna"
+    },
+    {
+      "id": 145,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Escalada)"
+    },
+    {
+      "id": 146,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada na Máquina com Pegada Neutra"
+    },
+    {
+      "id": 147,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca Scott Invertida"
+    },
+    {
+      "id": 148,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps na Polia Alta com Barra V"
+    },
+    {
+      "id": 149,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Frontal com Halteres Declinado"
+    },
+    {
+      "id": 150,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Encolhimento de Ombros com Halteres Declinado"
+    },
+    {
+      "id": 151,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Patinete Elétrico com Acessórios)"
+    },
+    {
+      "id": 152,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Leg Press 45° com Uma Perna"
+    },
+    {
+      "id": 153,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Natação Sincronizada)"
+    },
+    {
+      "id": 154,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões com Bola de Medicina"
+    },
+    {
+      "id": 155,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Supino Fechado com Halteres"
+    },
+    {
+      "id": 156,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Agachamento com Barra Baixa"
+    },
+    {
+      "id": 157,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Escalada na Parede)"
+    },
+    {
+      "id": 158,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada na Máquina com Pegada Inversa"
+    },
+    {
+      "id": 159,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca 21 com Halteres"
+    },
+    {
+      "id": 160,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Testa com Barra EZ"
+    },
+    {
+      "id": 161,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Lateral com Halteres na Máquina"
+    },
+    {
+      "id": 162,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento com Barra na Frente com Pegada Larga"
+    },
+    {
+      "id": 163,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Ski Erg)"
+    },
+    {
+      "id": 164,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Pistol Squat com Halteres"
+    },
+    {
+      "id": 165,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Subida de Escadas com Halteres)"
+    },
+    {
+      "id": 166,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões com Bosu"
+    },
+    {
+      "id": 167,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Supino com Pegada Neutra"
+    },
+    {
+      "id": 168,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Agachamento com Bola Suíça"
+    },
+    {
+      "id": 169,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Corrida em Esteira com Inclinação)"
+    },
+    {
+      "id": 170,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Leg Press 45° com Pernas Estendidas"
+    },
+    {
+      "id": 171,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada na Máquina com Pegada Larga e Triângulo"
+    },
+    {
+      "id": 172,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca 21 com Barra EZ"
+    },
+    {
+      "id": 173,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps na Polia Alta com Pegada Fechada"
+    },
+    {
+      "id": 174,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Frontal com Halteres na Máquina"
+    },
+    {
+      "id": 175,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento com Barra na Frente com Pegada Fechada"
+    },
+    {
+      "id": 176,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Box Jumps)"
+    },
+    {
+      "id": 177,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Pistol Squat com Barra"
+    },
+    {
+      "id": 178,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Saltos com Caixa)"
+    },
+    {
+      "id": 179,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões em Declive com Bosu"
+    },
+    {
+      "id": 180,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Supino Fechado com Barra"
+    },
+    {
+      "id": 181,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Jump Squats)"
+    },
+    {
+      "id": 182,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Agachamento Pistola"
+    },
+    {
+      "id": 183,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Corrida em Montanha)"
+    },
+    {
+      "id": 184,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Puxada com Barra V na Máquina"
+    },
+    {
+      "id": 185,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca Inversa com Barra EZ"
+    },
+    {
+      "id": 186,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps na Polia Alta com Pegada Inversa"
+    },
+    {
+      "id": 187,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Lateral na Máquina"
+    },
+    {
+      "id": 188,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento com Barra Sentado"
+    },
+    {
+      "id": 189,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Corrida em Montanha com Mochila)"
+    },
+    {
+      "id": 190,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Step-ups com Barra"
+    },
+    {
+      "id": 191,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Caminhada com Bastão)"
+    },
+    {
+      "id": 192,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Flexões com Pegada Fechada"
+    },
+    {
+      "id": 193,
+      "tipo": "ABCDE",
+      "categoria": "Peito",
+      "exercicio": "Supino Inclinado com Halteres"
+    },
+    {
+      "id": 194,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Afundo com Barra na Frente"
+    },
+    {
+      "id": 195,
+      "tipo": "ABCDE",
+      "categoria": "Pernas",
+      "exercicio": "Cárdio (Corrida com Obstáculos)"
+    },
+    {
+      "id": 196,
+      "tipo": "ABCDE",
+      "categoria": "Dorsal",
+      "exercicio": "Remada T com Barra V"
+    },
+    {
+      "id": 197,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Rosca 21 com Barra EZ Invertida"
+    },
+    {
+      "id": 198,
+      "tipo": "ABCDE",
+      "categoria": "Braços",
+      "exercicio": "Tríceps Pulldown com Triângulo"
+    },
+    {
+      "id": 199,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Elevação Lateral com Halteres na Máquina"
+    },
+    {
+      "id": 200,
+      "tipo": "ABCDE",
+      "categoria": "Ombros",
+      "exercicio": "Desenvolvimento Arnold Press Inclinado"
+    }
+    ]
+      
